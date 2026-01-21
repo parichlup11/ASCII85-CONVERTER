@@ -1,4 +1,4 @@
-====================================ASCII85 CONVERTER====================================
+========================ASCII85 CONVERTER========================
 
 
 A simple CLI tool written in C to encode and decode data using the Ascii85 
