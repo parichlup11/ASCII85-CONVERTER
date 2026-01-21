@@ -10,8 +10,6 @@ WHAT IT DOES:
   
 - Decode: Reads 5 characters, ignores whitespace, and converts them back to 
   4 bytes of binary data.
-- Bonus: Uses fixed-width integer types (uint32_t, etc.) from stdint.h for 
-  better portability.
 
 USAGE:
 1. Compile:
